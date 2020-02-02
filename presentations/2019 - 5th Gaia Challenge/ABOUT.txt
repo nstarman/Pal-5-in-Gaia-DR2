@@ -1,0 +1,16 @@
+TITLE   : 2019 - 5th Gaia Challenge
+
+
+DESCRIPTION:
+————————————
+The subset of the 5th Gaia Challenge Conference that pertains to this Pal5 work.
+The master presentation can be found at </Users/nathanielstarkman/Documents/Science/Conferences/2019-09-09 5th Gaia Challenge — Paris/Presentation>
+
+Or at <https://starkenthal.quickconnect.to/d/f/508737855206506194>
+
+
+FILES:
+——————
+/ figures	: the figures and generating code for the Pal5-related figures
+. Starkman - 5th Gaia Challenge - stream subset.pdf
+. Starkman - 5th Gaia Challenge - stream subset.key

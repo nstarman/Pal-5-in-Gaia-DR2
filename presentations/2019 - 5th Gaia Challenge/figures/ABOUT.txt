@@ -1,0 +1,22 @@
+TITLE   :
+
+
+DESCRIPTION:
+————————————
+The figures and generating code for the Pal5 portion of the presentation
+
+Master Presentation : /Users/nathanielstarkman/Documents/Science/Conferences/2019-09-09 5th Gaia Challenge — Paris/Presentation
+
+
+Figure Map:
+——————————
+Mapping the figures in this folder to the master presentation
+
+- figure 1	: master /figure 1
+- figure 2	: master /figure 2
+- figure 3	: master /figure 3
+- figure 4	: master /figure 4
+- figure 5	: master /figure 5
+- figure 6	: master /figure 6
+- figure 7	: master /figure 7
+- figure 8	: master /figure 8

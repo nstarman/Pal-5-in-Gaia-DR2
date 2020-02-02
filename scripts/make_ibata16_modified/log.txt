@@ -1,0 +1,20 @@
+Make Ibata 2016 Modified Log:
+
+===============================================================================
+
+opening ../../data/ibata2016cfht/pal5.fit
+opened
+table columns: ['_Glon', '_Glat', '_RAJ2000', '_DEJ2000', 'RAJ2000', 'DEJ2000', 'CCD', 'xpixg', 'ypixg', 'g0mag', 'e_g0mag', 'gcls', 'xpixr', 'ypixr', 'r0mag', 'e_r0mag', 'rcls', 'field', 'E_B-V_']
+
+-------------------------------------------------------------------------------
+
+renaming columns to...
+['L', 'B', 'ra', 'dec', 'RAJ2000', 'DEJ2000', 'CCD', 'xpixg', 'ypixg', 'g', 'g_err', 'gcls', 'xpixr', 'ypixr', 'r', 'r_err', 'rcls', 'field', 'E(B-V)']
+
+adding g-r color column
+
+Making new QTable w/ all columns except RAJ2000, DEJ2000
+
+new table columns: ['L', 'B', 'ra', 'dec', 'CCD', 'xpixg', 'ypixg', 'g', 'g_err', 'gcls', 'xpixr', 'ypixr', 'r', 'r_err', 'g-r', 'g-r_err', 'rcls', 'field', 'E(B-V)']
+
+saving to ../../data/ibata2016cfht/pal5_modified.fit
